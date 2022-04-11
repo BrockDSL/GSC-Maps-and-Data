@@ -1,11 +1,16 @@
 ![Tool Logo][imglogo]
 
 
-# Title
-Description of contents
+# Geological Survey of Canada (GSC) Maps & Data
+This brief tutorial outlines a search and retrieval procedure for GSC maps and data using GeoScan Advanced Search.
 
-### First header
-Content
+### Searching
+1. Go to [http://geoscan.nrcan.gc.ca/geoscan-index.html](http://geoscan.nrcan.gc.ca/geoscan-index.html) 
+2. Select English then click the Advanced Search option.
+3. Enter a geographic keyword such as "Lake Simcoe"
+4. Click *subject* to browse the subject listing or enter a subject keyword such as "geology"
+5. Check the box beside the province of interest.
+6. From the Series list, select
 
 ### Second Header
 
